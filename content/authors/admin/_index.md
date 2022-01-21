@@ -61,9 +61,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "gustavo.g.amorim@vumc.org"
@@ -76,4 +76,4 @@ I am currently a Research Assistant Professor in Biostaitstics at Vanderbilt Uni
 
 My research is mostly centered around developing new statistical methods to design and analyze data obtained via complex designs. Our proposed designs are currently being implemented in large validation studies in Latin America and East Africa, in selected CCASAnet and IDEA sites. My collaborations are mostly in Tuberculosis or HIV. I am part of the RePORT Brazil team, which investigates the impact of TB in the country. I also work closely with Friends in Global Health, in Mozambique.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
