@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-A complete list of publications can be found in my CV.
+A complete list of publications can be found in my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 {{% /callout %}}
