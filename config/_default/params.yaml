@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: M
+font_size: m
 
 # SEO
 
@@ -59,12 +59,15 @@ contact_links:
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
-  show_language: false
+  show_language: true
+  show_translations: true
   show_day_night: true
   show_search: false
   highlight_active_link: true
+footer:
+  show_translations: true
 
 # Localization
 

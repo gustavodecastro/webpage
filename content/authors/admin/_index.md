@@ -22,7 +22,7 @@ interests:
 - Measurement error
 - Semiparametric models
 - Robust inference
-- HIV
+- HIV and TB
 
 # Education to show in About widget
 education:
