@@ -19,8 +19,10 @@ bio: My research interests include two-phase designs, validation studies, semipa
 # Interests to show in About widget
 interests:
 - Two-phase designs
+- Measurement error
 - Semiparametric models
 - Robust inference
+- HIV
 
 # Education to show in About widget
 education:
@@ -42,11 +44,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:gustavo.g.amorim@vumc.org'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=Cx8yi0IAAAAJ&hl=en&oi=sra
 - icon: github
@@ -64,7 +66,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "gustavo.g.amorim@vumc.org"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
