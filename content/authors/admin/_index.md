@@ -72,8 +72,14 @@ email: "gustavo.g.amorim@vumc.org"
 highlight_name: true
 ---
 
-I am currently a Research Assistant Professor in Biostaitstics at Vanderbilt University Medical Center. I am originally from Brazil, the state of Minas Gerais, where I grew up and studied Physics (BSc) and later Statistics and Probability (MSc) at the Federal University of Minas Gerais. Later I moved across the globe to obtain my PhD in Statistics at The University of Auckland, where I was very fortunate to work under the supervision of Professors Chris Wild and Alastair Scott. I spent a few years in Belgium as a postdoctoral researcher; first at Ghent University, where I had the pleasure to work with Professors Olivier Thas, Stijn Vansteelandt, and Jan de Neve, and later at Janssen Pharmaceutica.
+I am currently a Research Assistant Professor in Biostatistics at Vanderbilt University Medical Center. I am originally from Minas Gerais, Brazil. I studied at the [Federal University of Minas Gerais](https://ufmg.br/), graduating in Physics and later completing an MSc. in Statistics and Probability.
 
-My research is mostly centered around developing new statistical methods to design and analyze data obtained via complex designs. Our proposed designs are currently being implemented in large validation studies in Latin America and East Africa, in selected CCASAnet and IDEA sites. My collaborations are mostly in Tuberculosis or HIV. I am part of the RePORT Brazil team, which investigates the impact of TB in the country. I also work closely with Friends in Global Health, in Mozambique.
+In 2010 I moved across the globe to obtain my Ph.D. in Statistics at [The University of Auckland](https://www.auckland.ac.nz/en/science/about-the-faculty/department-of-statistics.html), where I was very fortunate to work under the supervision of Professors Chris Wild and Alastair Scott.
+
+Before joining VUMC, I spent a few years in Belgium working as a postdoctoral researcher. I worked at [Ghent University](https://www.ugent.be/en) wih Professors Olivier Thas and  Stijn Vansteelandt. After living in Ghent, I moved to Antwerp to work at [Janssen Pharmaceutica](https://www.janssen.com/belgium/) for one year.
+
+My research focuses on developing new statistical methods to design validation studies and analyze data obtained via complex sampling schemes. We have proposed optimal and nearly optimal validation designs currently being implemented in large validation studies conducted in selected CCASAnet and IDEA sites.
+
+My work is motivated by Global Health applications, particularly related to HIV and Tuberculosis (TB) I am part of the [RePORT Brazil](https://reportbrazil.org/) team, which investigates the clinical outcomes of TB treatment the country, as well as the incidence of TB among close contacts. I also work closely with [Friends in Global Health](https://www.vumc.org/friends-in-global-health), focusing on HIV care, prevention, and treatment. I am also helping build biostatistics capacity in Mozambique and Sierra Leone by either supervising MSc. students, lecturing, or training staff.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
