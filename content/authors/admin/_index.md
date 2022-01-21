@@ -72,11 +72,7 @@ email: "gustavo.g.amorim@vumc.org"
 highlight_name: true
 ---
 
-I am currently a Research Assistant Professor in Biostatistics at Vanderbilt University Medical Center. I am originally from Minas Gerais, Brazil. I studied at the [Federal University of Minas Gerais](https://ufmg.br/), graduating in Physics and later completing an MSc. in Statistics and Probability.
-
-In 2010 I moved across the globe to obtain my Ph.D. in Statistics at [The University of Auckland](https://www.auckland.ac.nz/en/science/about-the-faculty/department-of-statistics.html), where I was very fortunate to work under the supervision of Professors Chris Wild and Alastair Scott.
-
-Before joining VUMC, I spent a few years in Belgium working as a postdoctoral researcher. I worked at [Ghent University](https://www.ugent.be/en) wih Professors Olivier Thas and  Stijn Vansteelandt. After living in Ghent, I moved to Antwerp to work at [Janssen Pharmaceutica](https://www.janssen.com/belgium/) for one year.
+I am currently a Research Assistant Professor in Biostatistics at Vanderbilt University Medical Center. I am originally from Minas Gerais, Brazil. I studied at the [Federal University of Minas Gerais](https://ufmg.br/), graduating in Physics and later completing an MSc. in Statistics and Probability. In 2010 I moved across the globe to obtain my Ph.D. in Statistics at [The University of Auckland](https://www.auckland.ac.nz/en/science/about-the-faculty/department-of-statistics.html), where I was very fortunate to work under the supervision of Professors Chris Wild and Alastair Scott. Before joining VUMC, I spent a few years in Belgium working as a postdoctoral researcher. I worked at [Ghent University](https://www.ugent.be/en) wih Professors Olivier Thas and  Stijn Vansteelandt. After living in Ghent, I moved to Antwerp to work at [Janssen Pharmaceutica](https://www.janssen.com/belgium/) for one year.
 
 My research focuses on developing new statistical methods to design validation studies and analyze data obtained via complex sampling schemes. We have proposed optimal and nearly optimal validation designs currently being implemented in large validation studies conducted in selected CCASAnet and IDEA sites.
 
